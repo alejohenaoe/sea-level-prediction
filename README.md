@@ -1,7 +1,5 @@
 # Sea Level Predictor
 
-# Sea Level Prediction
-
 This project analyzes historical sea level data and uses linear regression to predict future sea levels. The goal is to provide a clear visualization of how sea levels have changed since 1880 and to forecast trends up to the year 2050.
 
 ## Project Overview
@@ -24,9 +22,10 @@ The script in `sea_level_predictor.py` performs the following tasks:
   - The regression line representing the trend.
   - The projected sea level rise up to 2050.
 
-## Running the Project
+## Sea level prediction plot:
 
-To run the project and generate the sea level prediction plot:
+![Regresion Plot](sea_level_plot.png)
+
 
 
 
